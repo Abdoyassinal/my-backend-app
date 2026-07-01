@@ -6,3 +6,4 @@ pymongo
 dnspython
 python-dotenv
 reportlab
+python-docx
