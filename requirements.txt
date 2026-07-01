@@ -5,3 +5,4 @@ motor
 pymongo
 dnspython
 python-dotenv
+reportlab
