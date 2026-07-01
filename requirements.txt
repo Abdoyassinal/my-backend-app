@@ -4,3 +4,4 @@ pydantic
 motor
 pymongo
 dnspython
+python-dotenv
